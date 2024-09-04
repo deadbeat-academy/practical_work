@@ -49,7 +49,7 @@ int main()
             break;
         }
 
-        cout << " > Результат: " << result << endl;
+        cout << " > Результат примера: " << result << endl;
 
         system("pause");
         system("cls");
